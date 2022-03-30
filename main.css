@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+
+}
+.h1{
+    background-color: blue;
+    text-align: center;
+    font-size: 12px;
+
+}
+.p{
+    font-family: Arial;
+    font-size: 16px;
+}
+.ul{
+    background-color: beige;
+    width: auto;
+
+}
+
+.li {
+    font-size: 12px;
+}
+.img {
+    display: block;
+    width: 115px;
+    height: 115px;
+    padding-left: 115px;
+   
+}
